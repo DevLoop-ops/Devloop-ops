@@ -16,6 +16,12 @@ Desenvolvemos soluções sob medida para empresas que buscam crescimento atravé
 
 ## 🌐 Projetos em Produção
 
+| Projeto            | Status    | Link                  | Deploy                  | Tecnologias principais                    |
+|--------------------|-----------|------------------------|--------------------------|-------------------------------------------|
+| **Zap Click**      | ✅ Online |em negociação/finalização| Railway / Node.js        | WhatsApp API, MongoDB, Node.js, TypeScript |
+| **Secretária.IA**  | ✅ Online | uso interno            | Vercel / AssemblyAI      | Discord Bot, Python, Notion API, IA       |
+| **DevLoop Hud**    | 🟢 Em Produção |      em produção       | Railway / MongoDB Atlas  | Full Stack (React + Node.js + TS)         |
+
 ---
 
 ## 🛠️ Stack Estratégica
@@ -28,7 +34,7 @@ Desenvolvemos soluções sob medida para empresas que buscam crescimento atravé
 
 ---
 
-## 🚀 Como Contribuir
+## 🚀 Como Rodar Localmente
 
 ```bash
 # Clonar o projeto
